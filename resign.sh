@@ -1,8 +1,9 @@
 #
 #
 
-cd ~/Desktop/mySign
 echo "签名开始..."
+# 这里配置ipa包和证书所在的路径
+cd ~/Desktop/resign
 # 这里修改电脑登录密码
 MacPassword="qwer"
 # 这里修改证书密码
